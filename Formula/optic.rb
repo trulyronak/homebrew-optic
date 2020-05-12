@@ -1,6 +1,6 @@
 require "language/node"
 
-class UseopticCli < Formula
+class Optic < Formula
   desc "The Optic CLI"
   homepage "https://github.com/opticdev/optic"
   url "https://registry.npmjs.org/@useoptic/cli/-/cli-8.0.6.tgz"
